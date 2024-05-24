@@ -1,6 +1,6 @@
 // const
 const MAPBOX_TOKEN =
-    // For security reasons, please avoid using the default public token provided by Mapbox as much as possible.
+  // For security reasons, please avoid using the default public token provided by Mapbox as much as possible.
   // Instead, manually add a new token and apply URL restrictions.
   // (please refer to https://github.com/yihong0618/running_page/issues/643#issuecomment-2042668580)
   'pk.eyJ1IjoiYmVuLTI5IiwiYSI6ImNrZ3Q4Ym9mMDBqMGYyeXFvODV2dWl6YzQifQ.gSKoWF-fMjhzU67TuDezJQ';
@@ -47,10 +47,10 @@ const LIGHTS_ON = true;
 const IS_CHINESE = true;
 const USE_ANIMATION_FOR_GRID = false;
 const CHINESE_INFO_MESSAGE = (yearLength: number, year: string): string =>
-  `户外运动 ${yearLength} 年 ` + ( year === 'Total' ? '' : `，地图展示的是 ${year} 年的轨迹`);
+  `户外运动 ${yearLength} 年 ` + (year === 'Total' ? '' : `，地图展示的是 ${year} 年的轨迹`);
 
 const ENGLISH_INFO_MESSAGE = (yearLength: number, year: string): string =>
-  `Logged ${yearLength} Years of Outdoor Journey` +  ( year === 'Total' ? '' : `, the map show routes in ${year}`);
+  `Logged ${yearLength} Years of Outdoor Journey` + (year === 'Total' ? '' : `, the map show routes in ${year}`);
 
 // not support English for now
 const CHINESE_LOCATION_INFO_MESSAGE_FIRST =
@@ -74,6 +74,7 @@ const SNOWBOARD_TITLE = IS_CHINESE ? '单板滑雪' : 'Snowboard';
 const SKI_TITLE = IS_CHINESE ? '双板滑雪' : 'Ski';
 const ROAD_TRIP_TITLE = IS_CHINESE ? '自驾' : 'RoadTrip';
 const FLIGHT_TITLE = IS_CHINESE ? '飞行' : 'Flight';
+const WALK_TITLE = IS_CHINESE ? '行走' : 'Walk';
 
 const RUN_TITLES = {
   FULL_MARATHON_RUN_TITLE,
@@ -92,6 +93,7 @@ const RUN_TITLES = {
   FLIGHT_TITLE,
   SNOWBOARD_TITLE,
   SKI_TITLE,
+  WALK_TITLE,
 };
 
 export {

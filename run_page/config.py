@@ -63,7 +63,7 @@ TYPE_DICT = {
     "road_biking": "Ride",
     "VirtualRide": "VirtualRide",
     "indoor_cycling": "Indoor Ride",
-    "walking": "Hike",
+    "walking": "Walk",
     "hiking": "Hike",
     "Walk": "Hike",
     "Hike": "Hike",
@@ -90,6 +90,7 @@ MAPPING_TYPE = [
     "Kayaking",
     "Snowboard",
     "Ski",
+    "Walk",
 ]
 
 STRAVA_GARMIN_TYPE_DICT = {
