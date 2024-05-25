@@ -23,6 +23,8 @@ KEEP2STRAVA = {
     "outdoorRunning": "Run",
     "outdoorCycling": "Ride",
     "indoorRunning": "VirtualRun",
+    "mountaineering": "Hike",
+    "indoorWalking": "Walk",
 }
 # need to test
 LOGIN_API = "https://api.gotokeep.com/v1.1/users/login"
@@ -62,6 +64,10 @@ def get_to_download_runs_ids(session, headers, sport_type):
         if r.ok:
             run_logs = r.json()["data"]["records"]
 
+
+            # 打开文件，写入数据
+            with open("data.json", "w") as outfile:
+                json.dump(run_logs, outfile)
             for i in run_logs:
                 logs = [j["stats"] for j in i["logs"]]
                 result.extend(k["id"] for k in logs if not k["isDoubtful"])
@@ -135,9 +141,7 @@ def parse_raw_data_to_nametuple(
             if p_hr:
                 p["hr"] = p_hr
         if with_download_gpx:
-            if str(keep_id) not in old_gpx_ids and run_data["dataType"].startswith(
-                "outdoor"
-            ):
+            if str(keep_id) not in old_gpx_ids:
                 gpx_data = parse_points_to_gpx(
                     run_points_data_gpx, start_time, KEEP2STRAVA[run_data["dataType"]]
                 )
