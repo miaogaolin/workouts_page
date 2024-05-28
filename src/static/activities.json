@@ -12148,5 +12148,20 @@
 "average_speed": 3.7322402087882094,
 "source": "Keep",
 "streak": 17
+},
+{
+"run_id": 9223370319945461807,
+"name": "Walk from keep",
+"distance": 507.3900146484375,
+"moving_time": "0:11:05",
+"type": "Walk",
+"start_date": "2024-05-28 15:04:08",
+"start_date_local": "2024-05-28 23:04:08",
+"location_country": "{'latitude': 34.21402, 'longitude': 108.910614, 'country': '\u4e2d\u56fd', 'nationCode': '156', 'province': '\u9655\u897f\u7701', 'city': '\u897f\u5b89\u5e02', 'cityCode': '029', 'district': None, 'districtCode': None}",
+"summary_polyline": null,
+"average_heartrate": 95.0,
+"average_speed": 0.7629925032307331,
+"source": "Keep",
+"streak": 17
 }
 ]
