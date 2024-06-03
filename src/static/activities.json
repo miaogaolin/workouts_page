@@ -12388,5 +12388,20 @@
 "average_speed": 1.0919467000691085,
 "source": "Keep",
 "streak": 22
+},
+{
+"run_id": 9223370319478661807,
+"name": "Ride from keep",
+"distance": 1994.800048828125,
+"moving_time": "0:10:09",
+"type": "Ride",
+"start_date": "2024-06-03 00:45:05",
+"start_date_local": "2024-06-03 08:45:05",
+"location_country": "{'latitude': 34.214648, 'longitude': 108.910453, 'country': '\u4e2d\u56fd', 'nationCode': '156', 'province': '\u9655\u897f\u7701', 'city': '\u897f\u5b89\u5e02', 'cityCode': '029', 'district': '\u96c1\u5854\u533a', 'districtCode': '610113'}",
+"summary_polyline": "od|oEwtvwSa@_AmAuEeAWe@G[c@AGF@PPJFhABN?`ADfANj@VhAj@fAn@n@\\b@\\h@RLD^Xh@Vx@`@`Bn@j@V|@\\\\Jz@\\RHd@VHFp@VVLTJh@XXPNJFBf@XpAf@fA`@l@Nf@RbA^v@Lt@Tl@Xd@Vf@Xh@\\b@\\VHF@HFj@h@@B?BA@A??C@ABB??@AA@?D@GCE?A??????@@??A@??????A@??@?A?A?@?@???????A?@C?BJSRg@BADBB@BBB@BBBBRJXPTJRNn@\\b@VZLPJB?X@VLBBLLHBb@XNJ^RTHXXZv@f@f@FFFD",
+"average_heartrate": 97.0,
+"average_speed": 3.2755337419181036,
+"source": "Keep",
+"streak": 23
 }
 ]
