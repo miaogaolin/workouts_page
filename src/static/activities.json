@@ -13948,5 +13948,50 @@
 "average_speed": 2.808763483341242,
 "source": "Keep",
 "streak": 24
+},
+{
+"run_id": 9223370316195549807,
+"name": "Ride from keep",
+"distance": 915.3099975585938,
+"moving_time": "0:06:14",
+"type": "Ride",
+"start_date": "2024-07-11 00:47:31",
+"start_date_local": "2024-07-11 08:47:31",
+"location_country": "{'latitude': 34.217766, 'longitude': 108.912722, 'country': '\u4e2d\u56fd', 'nationCode': '156', 'province': '\u9655\u897f\u7701', 'city': '\u897f\u5b89\u5e02', 'cityCode': '029', 'district': '\u96c1\u5854\u533a', 'districtCode': '610113'}",
+"summary_polyline": "gv{oEizvwSn@\\r@Zh@^p@`@j@ZPH`@PXXDBFH?DPVZTB?VHj@PD@h@Tr@\\X\\JFHDd@Zf@Zp@`@|@d@x@d@j@Z`@PZTDDl@`@DHJHBBRJVHd@PNHh@ZZNj@TD?BA????CFEBE@D?@?OHKBGBBAXS????HMFMFM@C?CBIBEDA?BF????@",
+"average_heartrate": 90.0,
+"average_speed": 2.4473529346486464,
+"source": "Keep",
+"streak": 25
+},
+{
+"run_id": 9223370316195480807,
+"name": "Walk from keep",
+"distance": 50.68000030517578,
+"moving_time": "0:00:44",
+"type": "Walk",
+"start_date": "2024-07-11 00:53:47",
+"start_date_local": "2024-07-11 08:53:47",
+"location_country": "{'latitude': 34.217333, 'longitude': 108.91239, 'country': '\u4e2d\u56fd', 'nationCode': '156', 'province': '\u9655\u897f\u7701', 'city': '\u897f\u5b89\u5e02', 'cityCode': '029', 'district': '\u96c1\u5854\u533a', 'districtCode': '610113'}",
+"summary_polyline": "imzoEabvwSLDHDJFJHBD@F",
+"average_heartrate": 84.0,
+"average_speed": 1.151818188753995,
+"source": "Keep",
+"streak": 25
+},
+{
+"run_id": 9223370316195382807,
+"name": "Ride from keep",
+"distance": 333.32000732421875,
+"moving_time": "0:01:38",
+"type": "Ride",
+"start_date": "2024-07-11 00:54:55",
+"start_date_local": "2024-07-11 08:54:55",
+"location_country": "{'latitude': 34.214784, 'longitude': 108.910521, 'country': '\u4e2d\u56fd', 'nationCode': '156', 'province': '\u9655\u897f\u7701', 'city': '\u897f\u5b89\u5e02', 'cityCode': '029', 'district': '\u96c1\u5854\u533a', 'districtCode': '610113'}",
+"summary_polyline": "ujzoEg`vwSLHBBLDDDJB^Vj@ZRJLDD@^TZNj@^f@Xj@\\j@^VZHHRTDFRX",
+"average_heartrate": 106.0,
+"average_speed": 3.4012245645328445,
+"source": "Keep",
+"streak": 25
 }
 ]
