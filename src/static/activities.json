@@ -14398,5 +14398,35 @@
 "average_speed": 2.845763787232688,
 "source": "Keep",
 "streak": 2
+},
+{
+"run_id": 9223370315075302807,
+"name": "Ride from keep",
+"distance": 2990.260009765625,
+"moving_time": "0:10:58",
+"type": "Ride",
+"start_date": "2024-07-23 23:53:33",
+"start_date_local": "2024-07-24 07:53:33",
+"location_country": "{'latitude': 34.3533, 'longitude': 108.947616, 'country': '\u4e2d\u56fd', 'nationCode': '156', 'province': '\u9655\u897f\u7701', 'city': '\u897f\u5b89\u5e02', 'cityCode': '029', 'district': '\u672a\u592e\u533a', 'districtCode': '610112'}",
+"summary_polyline": "eaypEov~wSK_AGoABQACIIC[A]A[Ag@Ac@EkA?aATS`@Dd@Vf@`@TJNJNJjAj@x@XLFXRTNhAt@|@n@j@^DFz@j@LJf@^~@p@^VdAv@|@j@b@ZVNd@Vj@\\dAj@NFLHLJDBh@LHC@GBSDCD@JFz@j@t@b@|@j@r@h@BHBFP`@DDv@h@x@h@jAr@`Aj@DBL^V`@RPLLBH@HDd@Df@D`@Jv@B\\DLNVZTHBJBHBLLZZDDFF`@ZN?RD^HF?F@d@@NAFANCHAP?v@LTDb@HL@n@H^DVHNDXHF@f@FPDVBLBTDF@FBL@N@D?^FTDh@XPLXTz@p@FBj@Z`@Pd@XFBl@H`ACx@HTFb@Nd@LD?LB`@D`@NfA\\r@^f@JXBv@RF?NDXHrA\\XHj@LpAXfARNDb@F`ANF@b@FVDLFPB^F",
+"average_heartrate": 107.0,
+"average_speed": 4.544468099947759,
+"source": "Keep",
+"streak": 3
+},
+{
+"run_id": 9223370315072276807,
+"name": "Ride from keep",
+"distance": 1329.8499755859375,
+"moving_time": "0:06:54",
+"type": "Ride",
+"start_date": "2024-07-24 00:48:05",
+"start_date_local": "2024-07-24 08:48:05",
+"location_country": "{'latitude': 34.214669, 'longitude': 108.910414, 'country': '\u4e2d\u56fd', 'nationCode': '156', 'province': '\u9655\u897f\u7701', 'city': '\u897f\u5b89\u5e02', 'cityCode': '029', 'district': '\u96c1\u5854\u533a', 'districtCode': '610113'}",
+"summary_polyline": "o{{oEe}vwSDBLFXJDBf@TVJXPRJVLPJJFl@Xd@Zd@b@XPh@Zl@\\l@Xv@\\RLd@ZD@j@RDB^Vh@d@XTb@VTJ^Tl@\\h@ZZPLDTN^VJF^Tn@^l@`@n@`@l@^`@NFBFB\\LLH^VPH@A?????@?A??????HG^M\\CD?D@FDB?RD^VNHPJZNHDb@RZRJJB@NJHDLF\\JX?NNXT`@X^^BDFDLHPRNPTVTTTNNL??@@",
+"average_heartrate": 91.0,
+"average_speed": 3.2121980086616846,
+"source": "Keep",
+"streak": 3
 }
 ]
