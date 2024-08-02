@@ -14758,5 +14758,20 @@
 "average_speed": 1.315226629362042,
 "source": "Keep",
 "streak": 5
+},
+{
+"run_id": 9223370314295583807,
+"name": "Ride from keep",
+"distance": 1521.27001953125,
+"moving_time": "0:09:10",
+"type": "Ride",
+"start_date": "2024-08-02 00:30:42",
+"start_date_local": "2024-08-02 08:30:42",
+"location_country": "{'latitude': 34.214697, 'longitude': 108.910445, 'country': '\u4e2d\u56fd', 'nationCode': '156', 'province': '\u9655\u897f\u7701', 'city': '\u897f\u5b89\u5e02', 'cityCode': '029', 'district': '\u96c1\u5854\u533a', 'districtCode': '610113'}",
+"summary_polyline": "ad|oE_tvwS[RLk@@GNIHCJGX[z@m@XTFAB?B???A???@?????????A???@A????@???????@IBIXc@LQXFd@RN?t@HF@DBD?D@N?LAjABlADr@f@f@Zd@Xj@Zd@Vl@ZPLRLLDZPZLh@T`@\\Z^^Tj@X`@Vb@Xj@Xf@Vl@Zh@Z\\Th@X`@VDDZXZRHHb@Vn@Pd@TXTRBB?d@KJCT?JBR?L?DBZRJFRN`@R`@Xb@TLHJFVNLFH?L@D?^PLJZRZT`@`@TTd@j@DB^^",
+"average_heartrate": 80.0,
+"average_speed": 2.765945490056818,
+"source": "Keep",
+"streak": 6
 }
 ]
