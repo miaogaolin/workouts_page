@@ -21,7 +21,7 @@ const YearStat = ({ year, onClick, onClickTypeInYear }: { year: string, onClick:
   let sumDistance = 0;
   let streak = 0;
   let heartRate = 0;
-  let heartRateNullCount = 0;
+  let runHeartCount = 0;
   const workoutsCounts = {};
 
   runs.forEach((run) => {
@@ -34,17 +34,16 @@ const YearStat = ({ year, onClick, onClickTypeInYear }: { year: string, onClick:
         workoutsCounts[run.type] = [1, (run.distance || 0) / run.average_speed, run.distance]
       }
     }
-    if (run.average_heartrate) {
+    if (run.average_heartrate && run.type === 'Run') {
+      runHeartCount++;
       heartRate += run.average_heartrate;
-    } else {
-      heartRateNullCount++;
     }
     if (run.streak) {
       streak = Math.max(streak, run.streak);
     }
   });
   const hasHeartRate = !(heartRate === 0);
-  const avgHeartRate = (heartRate / (runs.length - heartRateNullCount)).toFixed(
+  const avgHeartRate = (heartRate / runHeartCount).toFixed(
     0
   );
 
@@ -88,7 +87,7 @@ const YearStat = ({ year, onClick, onClickTypeInYear }: { year: string, onClick:
           className="pb-2"
         />
         {hasHeartRate && (
-          <Stat value={avgHeartRate} description=" Avg Heart Rate" />
+          <Stat value={avgHeartRate} description=" Run BPM" />
         )}
       </section>
       {year !== 'Total' && hovered && (
