@@ -19843,5 +19843,50 @@
 "average_speed": 1.060277811686198,
 "source": "Keep",
 "streak": 35
+},
+{
+"run_id": 9223370302544504807,
+"name": "Run from keep",
+"distance": 393.54998779296875,
+"moving_time": "0:02:03",
+"type": "Run",
+"start_date": "2024-12-16 00:49:08",
+"start_date_local": "2024-12-16 08:49:08",
+"location_country": "{'latitude': 34.22143, 'longitude': 108.915091, 'country': '\u4e2d\u56fd', 'nationCode': '156', 'province': '\u9655\u897f\u7701', 'city': '\u897f\u5b89\u5e02', 'cityCode': '029', 'district': '\u96c1\u5854\u533a', 'districtCode': '610113', 'startLatitude': 34.224415, 'startLongitude': 108.916569}",
+"summary_polyline": "cw{oE_{vwSLDLDPFXLR@\\HZCJLPT\\ARFNTTJTLNPXFVLRHRJRJPPRJVHTNRLRFNH",
+"average_heartrate": 149.0,
+"average_speed": 3.199593396690803,
+"source": "Keep",
+"streak": 36
+},
+{
+"run_id": 9223370302544240807,
+"name": "Ride from keep",
+"distance": 864.5800170898438,
+"moving_time": "0:04:24",
+"type": "Ride",
+"start_date": "2024-12-16 00:51:11",
+"start_date_local": "2024-12-16 08:51:11",
+"location_country": "{'latitude': 34.214668, 'longitude': 108.910423, 'country': '\u4e2d\u56fd', 'nationCode': '156', 'province': '\u9655\u897f\u7701', 'city': '\u897f\u5b89\u5e02', 'cityCode': '029', 'district': '\u96c1\u5854\u533a', 'districtCode': '610113', 'startLatitude': 34.22136, 'startLongitude': 108.915056}",
+"summary_polyline": "kd{oEaqvwS@F?@@@TJ\\Pf@Vr@d@d@TF@^Vp@\\n@^j@\\DBl@ZRLTJLHb@\\TPTFNJNJf@Tb@RHDHFHF??????????@@B@DBLDb@ZRNZJ\\RPJRHFBDDRJHHLHRLDBh@Xd@Tv@f@l@`@h@\\LJXTHNLHh@f@b@`@",
+"average_heartrate": 124.0,
+"average_speed": 3.274924307158499,
+"source": "Keep",
+"streak": 36
+},
+{
+"run_id": 9223370302509108807,
+"name": "Ride from keep",
+"distance": 1277.780029296875,
+"moving_time": "0:06:31",
+"type": "Ride",
+"start_date": "2024-12-16 10:34:36",
+"start_date_local": "2024-12-16 18:34:36",
+"location_country": "{'latitude': 34.22463, 'longitude': 108.917358, 'country': '\u4e2d\u56fd', 'nationCode': '156', 'province': '\u9655\u897f\u7701', 'city': '\u897f\u5b89\u5e02', 'cityCode': '029', 'district': '\u96c1\u5854\u533a', 'districtCode': '610113', 'startLatitude': 34.214768, 'startLongitude': 108.910551}",
+"summary_polyline": "y{yoEiuuwSSOUQSUCCYYY[Y]EA]KMG[OGEOIOKKACASIc@USMGECCCCIE?AIGYOUO]OYQWOK@????MKa@UWQGCSKOIg@[ECE?GC_@Um@_@w@e@KGc@UaAk@o@]k@]u@a@_@UOQYKg@WYQUMUMm@_@m@Y[QSKYOYSe@Wi@Wk@[m@]s@a@YOECMIg@Yi@]i@Q]W]]GO@M?GEM",
+"average_heartrate": 76.0,
+"average_speed": 3.2679796145700126,
+"source": "Keep",
+"streak": 36
 }
 ]
