@@ -21718,5 +21718,35 @@
 "average_speed": 1.74462890625,
 "source": "Keep",
 "streak": 2
+},
+{
+"run_id": 9223370297065242807,
+"name": "Walk from keep",
+"distance": 1362.1500244140625,
+"moving_time": "0:15:51",
+"type": "Walk",
+"start_date": "2025-02-17 10:35:44",
+"start_date_local": "2025-02-17 18:35:44",
+"location_country": "{'latitude': 34.224842, 'longitude': 108.917507, 'country': '\u4e2d\u56fd', 'nationCode': '156', 'province': '\u9655\u897f\u7701', 'city': '\u897f\u5b89\u5e02', 'cityCode': '029', 'district': '\u96c1\u5854\u533a', 'districtCode': '610113', 'startLatitude': 34.214691, 'startLongitude': 108.910334}",
+"summary_polyline": "i{yoEgtuwSW`@a@UAYMQIUIg@IUQQMEUQOMKI]OUKOIOIKMQESEQOOIIGMIUOSKUMIGGC[MUOMISKOKSQKIOMYISMYKMIQIOCOKQKOOMOOKQKOMOESGMGOMIEQKQQQGUGSEMKQSYOOKUOUIOESMOKSIQOSMQOWMSKQSUKUGIIOICCGMACMGa@OIAMCKIMAKGSGKGIKKGMKKGSMSKMGKIOIQKWGSCIGIGOMIEUIKMMOGCKIOGQIIGMIMIQIKMCMMUOQEGMEE@?AAC",
+"average_heartrate": 93.0,
+"average_speed": 1.4323344105300342,
+"source": "Keep",
+"streak": 2
+},
+{
+"run_id": 9223370297014467807,
+"name": "Ride from keep",
+"distance": 1119.739990234375,
+"moving_time": "0:04:29",
+"type": "Ride",
+"start_date": "2025-02-18 00:53:58",
+"start_date_local": "2025-02-18 08:53:58",
+"location_country": "{'latitude': 34.214689, 'longitude': 108.910415, 'country': '\u4e2d\u56fd', 'nationCode': '156', 'province': '\u9655\u897f\u7701', 'city': '\u897f\u5b89\u5e02', 'cityCode': '029', 'district': '\u96c1\u5854\u533a', 'districtCode': '610113', 'startLatitude': 34.223255, 'startLongitude': 108.916144}",
+"summary_polyline": "wp{oEowvwSEA?@B?j@L\\Vb@Rl@d@n@VZJF@LCB@LBNFVAD@DFDLPJFFJDFCTL`@Z`@Td@ZTNNFD@NHFFb@TFDPHf@VFDTNHD\\Rl@^DFJLTP~@f@XP\\Nz@d@x@^j@XXLPJDFTFRLLHr@d@^NNJp@^b@Vd@ZLFTNTPd@V~@n@FDNLZ\\RXJL^X",
+"average_heartrate": 143.0,
+"average_speed": 4.162602194179833,
+"source": "Keep",
+"streak": 3
 }
 ]
