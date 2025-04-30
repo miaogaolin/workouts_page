@@ -23788,5 +23788,35 @@
 "average_speed": 1.3320767034298528,
 "source": "Keep",
 "streak": 2
+},
+{
+"run_id": 9223370290930697807,
+"name": "Walk from keep",
+"distance": 1390.93994140625,
+"moving_time": "0:19:00",
+"type": "Walk",
+"start_date": "2025-04-29 10:35:38",
+"start_date_local": "2025-04-29 18:35:38",
+"location_country": "{'latitude': 34.224712, 'longitude': 108.917368, 'country': '\u4e2d\u56fd', 'nationCode': '156', 'province': '\u9655\u897f\u7701', 'city': '\u897f\u5b89\u5e02', 'cityCode': '029', 'district': '\u96c1\u5854\u533a', 'districtCode': '610113', 'startLatitude': 34.21459, 'startLongitude': 108.910276}",
+"summary_polyline": "szyoEwsuwSMUOQIMUMGCIEMQIOMOOMSKMOQKUISOSKQIMIICGIAGGGIBWGKMOGQKWIKIOOKGMIQCMMKGICMEMKG?KI?O?IAG?FACAAHAE??ADFAAG@@AD?AE?BA?EAKCMC[KUGQGSOSKKACCMMMSQGMEOCSKKIMIOIOKKISKSMICKGKIOGIGWOOEQKQMQKYSOGGEKGOIIEYQKIMGOKKGKCGCIIKIUSKIOGEEMEICSCMMKCCIAECAECKEKEUKKCQMMEOGKKMSKMMIOCQGOIKKIGOIKA_@EQEMGMKMCQGOOIQMMIEUEUIEEQMMGKOIEQEKOAQGQ",
+"average_heartrate": 81.0,
+"average_speed": 1.2201227556195176,
+"source": "Keep",
+"streak": 3
+},
+{
+"run_id": 9223370290880406807,
+"name": "Walk from keep",
+"distance": 1312.47998046875,
+"moving_time": "0:16:38",
+"type": "Walk",
+"start_date": "2025-04-30 00:36:11",
+"start_date_local": "2025-04-30 08:36:11",
+"location_country": "{'latitude': 34.214501, 'longitude': 108.910454, 'country': '\u4e2d\u56fd', 'nationCode': '156', 'province': '\u9655\u897f\u7701', 'city': '\u897f\u5b89\u5e02', 'cityCode': '029', 'district': '\u96c1\u5854\u533a', 'districtCode': '610113', 'startLatitude': 34.224264, 'startLongitude': 108.916873}",
+"summary_polyline": "kv{oEe|vwSDHPJZHHBPHJJNFNHPHHHJJPBNBLLVNJDNJTHPJXJLDNFJNRHRFNJLPNDLFFDH@???@NHJNDBNAR@NLRNLHPHZRJFPHLLLFNJPLLHJHLFVPHBLHLFTLRHRLLFPFRLLHLHHFLRRFPFRJJLLFRJPHLHPHLFPLPNRHNFLBD@@B@?CBCC@AB?????????EA@@ABDDF?NFNHNFJLNLNHPJLHJJFDRHLFNJPHPNRHLFJFNHLDP@LPNJHFNHNJJJJFNJPNJDRLNJPLHNNPJFPLNHLFLJNHJA",
+"average_heartrate": 88.0,
+"average_speed": 1.315110200870491,
+"source": "Keep",
+"streak": 4
 }
 ]
